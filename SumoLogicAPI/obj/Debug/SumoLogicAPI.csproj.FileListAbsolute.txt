@@ -1,0 +1,9 @@
+D:\Projects\SumoLogicAPISolution\SumoLogicAPI\bin\Debug\SumoLogicAPI.exe.config
+D:\Projects\SumoLogicAPISolution\SumoLogicAPI\bin\Debug\SumoLogicAPI.exe
+D:\Projects\SumoLogicAPISolution\SumoLogicAPI\bin\Debug\SumoLogicAPI.pdb
+D:\Projects\SumoLogicAPISolution\SumoLogicAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\SumoLogicAPISolution\SumoLogicAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\SumoLogicAPISolution\SumoLogicAPI\obj\Debug\SumoLogicAPI.csprojResolveAssemblyReference.cache
+D:\Projects\SumoLogicAPISolution\SumoLogicAPI\obj\Debug\SumoLogicAPI.csproj.CoreCompileInputs.cache
+D:\Projects\SumoLogicAPISolution\SumoLogicAPI\obj\Debug\SumoLogicAPI.exe
+D:\Projects\SumoLogicAPISolution\SumoLogicAPI\obj\Debug\SumoLogicAPI.pdb
